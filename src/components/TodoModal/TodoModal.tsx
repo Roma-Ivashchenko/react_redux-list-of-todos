@@ -18,7 +18,7 @@ export const TodoModal: React.FC = () => {
     }
 
     getUser(selectTodo?.userId)
-      .then(data => dispatch(setUser(data)))
+      .then(fetchedUser => dispatch(setUser(fetchedUser)))
       .finally(() => setLoadingUser(false));
   }, [selectTodo, dispatch]);
 

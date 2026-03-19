@@ -18,5 +18,5 @@ using the Redux. It should look and work identically, so use the same markup.
 ## Instructions
 
 - Install Prettier Extention and use this [VSCode settings](https://mate-academy.github.io/fe-program/tools/vscode/settings.json) to enable format on save.
-- Replace `<your_account>` with your Github username in the [DEMO LINK](https://github.com/Roma-Ivashchenko/react_redux-list-of-todos.git)
+- Replace `<your_account>` with your Github username in the [DEMO LINK](np)
 - Follow the [React task guideline](https://github.com/mate-academy/react_task-guideline#react-tasks-guideline)
